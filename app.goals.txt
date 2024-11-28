@@ -7,3 +7,5 @@ Adding security to my text file
 function sum(a, b, c){
     return a + b + c
 }
+
+Add Goal: Allows users to add new goals to the tracker.
