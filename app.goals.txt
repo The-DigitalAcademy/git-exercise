@@ -3,4 +3,4 @@ const goals = []
 const goal = {name: "Sam", 
                numberOfGoals:1}
 
-goas.push(goal);
+goals.push(goal);
