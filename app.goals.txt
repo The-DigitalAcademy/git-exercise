@@ -8,7 +8,11 @@ This Is Group C
 
 
 
+Displays all active goals in a list format.
+
+
 This part will allow the users to update the added goal
+
 
 User Authentication: Ensures only registered users can access the tracker.
 
