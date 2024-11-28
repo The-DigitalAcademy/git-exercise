@@ -1,6 +1,4 @@
-const goals = []
-
-const goal = {name: "Sam", 
-               numberOfGoals:1}
-
-goas.push(goal);
+Adding straight to develop
+Adding new content to develop
+abc
+Adding security to my text file
