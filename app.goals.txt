@@ -5,4 +5,8 @@ Adding security to my text file
 
 This Is Group C
 
+
 Displays all active goals in a list format.
+
+User Authentication: Ensures only registered users can access the tracker.
+
