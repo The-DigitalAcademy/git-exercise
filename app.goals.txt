@@ -7,3 +7,7 @@ Adding security to my text file
 function sum(a, b, c){
     return a + b + c
 }
+
+function deleteGoals(){
+    return "deleted successfully";
+}
