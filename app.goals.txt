@@ -1,3 +1,4 @@
 Group E git exercise
+edit goal
 
 User Authentication: Ensures only registered users can access the tracker.
