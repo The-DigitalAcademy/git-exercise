@@ -2,4 +2,8 @@ Adding straight to develop
 Adding new content to develop
 abc
 Adding security to my text file
+
 delete-goal feature
+
+ntando adding from edit goal
+Maboku just added some new goals to the file
