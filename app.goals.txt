@@ -1,4 +1,3 @@
-Adding straight to develop
-Adding new content to develop
-abc
-Adding security to my text file
+Group E git exercise
+
+ Allows users to add new goals to the tracker.
