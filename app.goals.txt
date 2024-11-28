@@ -8,3 +8,6 @@ This Is Group C
 
 
 This part will allow the users to update the added goal
+
+User Authentication: Ensures only registered users can access the tracker.
+
