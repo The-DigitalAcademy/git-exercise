@@ -1,1 +1,3 @@
 Group E git exercise
+
+ Allows users to add new goals to the tracker.
