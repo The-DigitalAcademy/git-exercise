@@ -9,3 +9,6 @@ function sum(a, b, c){
 }
 
 Add Goal: Allows users to add new goals to the tracker.
+function deleteGoals(){
+    return "deleted successfully";
+}
